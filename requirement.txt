@@ -1,5 +1,0 @@
-requests==2.31.0
-beautifulsoup4==4.12.2
-reportlab==4.0.4
-spacy==3.6.0
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
